@@ -1,0 +1,24 @@
+- smaller images
+- smaller img format
+- async function loading
+- compress js html css
+- accessibility stuff (lessons)
+- h1 h2 h3
+- div -> other stuff
+- text gzip
+- render blocking ressources
+- img alt
+- title
+- form
+- links sucks
+- contrast
+- lang
+- headers suck
+- meta
+- smantique principales (<header></header>
+<nav></nav>
+<main></main>
+<article></article>
+<section></section>
+<aside></aside>
+<footer></footer>)
