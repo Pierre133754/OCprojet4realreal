@@ -1,0 +1,7 @@
+localbusiness product ?
+	name
+	image
+	founder name image
+	contactpoint instagram
+	*contactpoint phone hours
+	*adress
